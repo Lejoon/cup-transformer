@@ -1,0 +1,1 @@
+A project that simulates a game of shuffling cups with a hidden ball underneath one of them. It also trains a Transformer based deep learning model to predict the final position of the ball after a series of swaps.
